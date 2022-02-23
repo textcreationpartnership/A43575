@@ -1,0 +1,416 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of the right honourable William Lord Pagett, Baron of Beaudefert, &amp;c. By John Heynes, A.M. and preacher of the New Church, Westminster</title>
+            <author>Heynes, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43575</idno>
+            <idno type="STC">Wing H17646A</idno>
+            <idno type="STC">ESTC R216791</idno>
+            <idno type="EEBO-CITATION">99828510</idno>
+            <idno type="PROQUEST">99828510</idno>
+            <idno type="VID">32938</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32938)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1867:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of the right honourable William Lord Pagett, Baron of Beaudefert, &amp;c. By John Heynes, A.M. and preacher of the New Church, Westminster</title>
+                  <author>Heynes, John.</author>
+               </titleStmt>
+               <extent>[4], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Fox, at the sign of the Angel in Westminster-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXIX. [1669, i.e. 1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a preliminary imprimatur leaf, signed: Geo. Thorp, Reverendissimo in Christo Patri, Gulielmo Archiep. Cant. à sacris domesticis. Decemb. 13. 1678. Ex Ædibus Lambethanis.</note>
+                  <note>Running title reads: A funeral sermon.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Paget, William Paget, --  Baron, 1609-1678 --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32938:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the FUNERAL Of the Right Honourable <hi>WILLIAM</hi> Lord <hi>Pagett,</hi> Baron of <hi>Beaudeſert,</hi> &amp;c.</p>
+            <p>BY <hi>JOHN HEYNES,</hi> A. M. and Preacher of the New Church, WESTMINSTER.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Fox,</hi> at the Sign of the <hi>Angel</hi> in <hi>Weſtminſter-Hall.</hi> MDCLXIX.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:32938:2"/>
+            <pb facs="tcp:32938:2" rendition="simple:additions"/>
+            <pb facs="tcp:32938:3"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>Geo. Thorp, <hi>Reverendiſsimo in Chriſto Patri,</hi> Gulielmo <hi>Archiep. Cant. à ſacris domeſticis.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Decemb.</hi> 13. 1678.</date> 
+                  <hi>Ex Aedibus Lambethanis.</hi>
+               </dateline>
+            </closer>
+            <pb facs="tcp:32938:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:32938:4"/>
+            <pb facs="tcp:32938:4" rendition="simple:additions"/>
+            <head>A <hi>Funeral Sermon,</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ON PHILIPPIANS iii. 21.</hi>
+                  </bibl>
+                  <p>Who ſhall change our vile body that it may be faſhioned like unto his glorious body, according to the working whereby he is able even to ſubdue all things unto himſelf.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Bleſſed Apoſtle having ful<g ref="char:EOLhyphen"/>ly declared, not only the vani<g ref="char:EOLhyphen"/>ty and falſeneſs, but alſo the dangerous conſequences of that Doctrine, which mixes the righteouſneſs of the Law with that of Faith in the point of Juſtification, comes in the cloſe of this Chapter to preſs the more adult and grown Chriſtians among the <hi>Philippians</hi> (whom in compariſon with others
+<pb n="2" facs="tcp:32938:5" rendition="simple:additions"/> he calls perfect) to a firm belief of,<note place="margin">
+                  <hi>Verſ.</hi> 15.</note> and an una<g ref="char:EOLhyphen"/>nimous adherence to this great and fundamen<g ref="char:EOLhyphen"/>tal Article of the Chriſtian Religion; giving them good ground to hope, that if any that were upright among them, were through the craft and ſubtilty of falſe Teachers deluded in<g ref="char:EOLhyphen"/>to a perſuaſion of the neceſſity of obſerving the Ceremonial Law, or any part of it, God in his due time would diſcover this Error unto them, and upon their ſincere endeavours after truth, effectually reclaim them from it.<note place="margin">
+                  <hi>Verſ.</hi> 16.</note> In the mean time he exhorts them to walk orderly, to live as becometh the Goſpel of <hi>Chriſt,</hi> in mutual love and amity, avoiding as much as may be all contentions and quarrellings, that ſo the Church of God might not through their means be rent into parties and factions, and the work of the Lord retarded and hindered. In order to this,<note place="margin">Verſ. 17.</note> he adviſes them to be followers of him, and ſuch others as were acted by the ſame Spi<g ref="char:EOLhyphen"/>rit with him; and not of thoſe deceivers, whoſe Life was as bad as their Doctrine, of whom he had frequently forewarned them,<note place="margin">Verſ. 18, 19.</note> and could not forbear to do it again with tears, for that they were the Enemies of the Croſs of <hi>Chriſt,</hi> whoſe end without repentance, would certain<g ref="char:EOLhyphen"/>ly be deſtruction; and that this (ſaith he) is no
+<pb n="3" facs="tcp:32938:5" rendition="simple:additions"/> raſh and uncharitable cenſure, will be very evident to any one that ſhall conſider the courſe, and manner of their life: for whatever their pretences to holineſs be, they are mere Slaves to their ſenſual appetites, and under the power of their luſts, the whole deſign of their life being nothing elſe but to gratifie the immoderate cravings thereof. Their God is their belly, their glory is in their ſhame, they mind Earthly things;<note place="margin">
+                  <hi>Verſ.</hi> 20.</note> but ſuch through grace we are not: for our converſation is in Hea<g ref="char:EOLhyphen"/>ven, our thoughts are exerciſed upon, and our deſires and affections are carried out after Hea<g ref="char:EOLhyphen"/>venly things, even to the neglect and contempt of Earthly things: we mind not the concerns of this preſent life, but ſince our treaſure is above, our hearts are there alſo: and as our way of living is contrary to theirs, ſo ſhall our end be likewiſe, for when <hi>Chriſt</hi> ſhall appear he ſhall publickly own and aſſert us, as ſuch who have been faithful to the truſt committed to us: he ſhall in a ſolemn manner teſtifie his reſpects to us, Crowning us with glory,<note place="margin">
+                  <hi>Verſ.</hi> 21.</note> honour, and immortality, and receiving us into Heaven, where we ſhall to Eternal Ages dwell under the invigorating rays, of his glo<g ref="char:EOLhyphen"/>rious preſence, which is the higheſt felicity
+<pb n="4" facs="tcp:32938:6" rendition="simple:additions"/> and happineſs our natures are capable of, per<g ref="char:EOLhyphen"/>haps this may ſeem ſtrangely improbable to thoſe who have their eyes fixt upon the weak<g ref="char:EOLhyphen"/>neſs and infirmities of theſe bodies that we carry about with us, but the difficulty will ſoon va<g ref="char:EOLhyphen"/>niſh, if ye conſider that <hi>Chriſt</hi> at his coming <hi>ſhall change this vile body of ours, that it may be faſhion'd like unto his glorious body, according to the working where<g ref="char:EOLhyphen"/>by he is able even to ſubdue all things unto himſelf.</hi>
+            </p>
+            <p>Thus I have cleared the coherence of the words, in which we have an account of the preſent, and of the future ſtate of the bodies of holy men. Our body is now a vile, baſe, ab<g ref="char:EOLhyphen"/>ject thing <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as the Apoſtle calls it, but hereafter, that is at the coming of <hi>Chriſt,</hi> it ſhall be raiſed up, and made like unto his glo<g ref="char:EOLhyphen"/>rious body,<note place="margin">1 <hi>Cor.</hi> 15.49.</note> that ſo as we have born the Image of the Earthy, we might alſo bear the Image of the Heavenly.</p>
+            <p>I ſhall ſpeak to both theſe particulars begin<g ref="char:EOLhyphen"/>ning with the firſt, concerning the preſent ſtate of the body, in treating of which I ſhall obſerve this method.</p>
+            <p>Firſt, To explain in what ſenſe our body is called by the Apoſtle a vile body.</p>
+            <p>Secondly, To enquire how we came to have ſuch vile bodies.</p>
+            <pb n="5" facs="tcp:32938:6" rendition="simple:additions"/>
+            <p>Thirdly, To improve it by a cloſe applica<g ref="char:EOLhyphen"/>tion of what hath been delivered to our ſelves.</p>
+            <p>As to the firſt, theſe bodies of ours are ſaid to be vile, not as they are the creatures of God, and the workmanſhip of his hands, for ſo con<g ref="char:EOLhyphen"/>ſidered, they are ſo far from being vile, that they are to be admired as one of the greateſt inſtances of the infinite power and wiſdom of God: certainly he that deliberately con<g ref="char:EOLhyphen"/>ſiders the ſtupendious Art, that appears in the frame and ſtructure of human bodies, muſt needs break forth into that expreſſion of the raptured Pſalmiſt, <hi>That they are fearfully and wonderfully made.</hi>
+            </p>
+            <p>But they are ſaid to be vile, in reſpect of the preſent circumſtances under which they are, and the many evils they are obnoxious to, whilſt in thoſe circumſtances. The words may be underſtood, either in a more limited and reſtrained ſenſe, with reſpect to the con<g ref="char:EOLhyphen"/>dition of the Apoſtles, and other holy men at that time, or in a more large and compre<g ref="char:EOLhyphen"/>henſive ſenſe, as expreſſing what's common to all; if we take them in the former, they are a high cordial to the ſuffering Saints: theſe bodies of ours (ſaith he) that are now ſo liable to the injuries and cruelties of wicked men,
+<pb n="6" facs="tcp:32938:7" rendition="simple:additions"/> theſe bodies that are haled and dragged into Priſons, theſe bodies that are ſcourged and a<g ref="char:EOLhyphen"/>buſed by our inhuman Perſecutors, theſe bo<g ref="char:EOLhyphen"/>dies that are gall'd with bonds and fetters, that are laden with irons and manacles, that are broken upon wheels, that are rackt with en<g ref="char:EOLhyphen"/>gines, that are torn with the teeth of wild beaſts, that are conſumed in flames, theſe bo<g ref="char:EOLhyphen"/>dies that are neglected and ſtarved, and pined and famiſhed, theſe bodies that are caſt forth as dung upon the face of the earth; even theſe very bodies ſhall he transform into a likeneſs to his own moſt glorious body, and therefore let this quiet you, let this ſupport and bear up your ſpirits in the midſt of all theſe afflictive Providences wherewith God ſees fit to exerciſe you: look not at the pre<g ref="char:EOLhyphen"/>ſent ignominy, but at the future glory; think not of the reproach and ſhame you are now expoſed unto, but of that honour that ſhall here<g ref="char:EOLhyphen"/>after be done unto you. As <hi>Haman</hi> who in his heart deſpiſed and hated <hi>Mordecai,</hi> and did what he could to bring him to a ſhameful end, was made to lacquey it at his horſe-ſide, and to proclaim through the chief ſtreets of the City; <hi>Thus ſhall it be done to the man whom the King de<g ref="char:EOLhyphen"/>lighteth to honour:</hi> ſo thoſe very perſons who
+<pb n="7" facs="tcp:32938:7" rendition="simple:additions"/> now look upon you as the filth and off-ſcouring of all things, and treat you accordingly, ſhall one day admire your excellent glory, and be forced not by arguments, but by the evidence of the thing it ſelf, to cry out as they in the Book of Wiſdom,<note place="margin">
+                  <hi>Wiſd.</hi> v. 3, 4, 5.</note> 
+               <hi>Theſe are they whom we had ſometime in deriſion, and a proverb of reproach: we fools counted their life madneſs, and their end with<g ref="char:EOLhyphen"/>out honour, but how are they new numbred among the Children of God, and their lot is among the Saints.</hi>
+            </p>
+            <p>But though this ſenſe be very applicable to the condition of thoſe firſt Chriſtians that were contemporary with the Apoſtles, and their im<g ref="char:EOLhyphen"/>mediate Succeſſors, yet we conceive with ſub<g ref="char:EOLhyphen"/>miſſion, that the words are to be taken in the more large and comprehenſive ſenſe, as ex<g ref="char:EOLhyphen"/>preſſing that vileneſs of the body which is com<g ref="char:EOLhyphen"/>mon to all, which wherein it doth conſiſt I am now to declare unto you.</p>
+            <p n="1">I. In the meanneſs of the matter of which they are conſtituted and compoſed, we are framed and made out of the Earth, <hi>We dwell in houſes of clay, whoſe foundation is in the duſt,</hi>
+               <note place="margin">
+                  <hi>Job</hi> iv. 19.</note> as <hi>Eliphaz</hi> in <hi>Job</hi> ſpeaks: we are incloſed and compaſſed about with mud walls, and this is a vile habitation for ſo quick and ſprightly a being as the Soul of man is to dwell in.</p>
+            <p n="2">
+               <pb n="8" facs="tcp:32938:8" rendition="simple:additions"/>II. In the qualities of them: The body of man it is a groſs and heavy, a dull and ſtupid, a dark and comfortleſs thing, it depreſſes and bears down the Soul and Spirit, that it cannot with<g ref="char:EOLhyphen"/>out great difficulty mount up above this dark atmoſphere: it pulls us down from our mounts of viſion, it clouds the ſerenity of our minds, and ſtifles the joy and pleaſure thereof by thoſe clouds and vapours, that are continually ariſing from its lower regions; it obſtructs and hin<g ref="char:EOLhyphen"/>ders the Soul in its moſt noble operations, and will, if great care be not taken to prevent it, ſtupifie it into an utter forgetfulneſs of its Di<g ref="char:EOLhyphen"/>vine Original. In a word, (as a learned <hi>Jew</hi> ſpeaks) it is <hi>inſtar veli vel parietis apprehenſionem creatoris impedientis:</hi>
+               <note place="margin">
+                  <hi>More Nevoch. p.</hi> 3. <hi>c.</hi> 9.</note> like a veil or rather a thick wall intercepting our ſight of divine things. And in this reſpect it was that the Apoſtle ſaith, <hi>Whilſt we are at home in the body,</hi>
+               <note place="margin">2 Cor. v. 6.</note> 
+               <hi>we are abſent from the Lord;</hi> not as though we had no converſe or communion at all with him,<note place="margin">1 <hi>Ep. Job.</hi> i. 3.</note> for the experience of all holy men ſpeaks the contrary:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Plato Phaed.</note> Our fel<g ref="char:EOLhyphen"/>lowſhip ſaith S. <hi>John,</hi> is with the Father and with his Son <hi>Jeſus Chriſt.</hi> But ſo little are we capable of knowing God, ſo little are we ca<g ref="char:EOLhyphen"/>pable of enjoying him whilſt here, that we may well be ſaid to be abſent from the Lord in
+<pb n="9" facs="tcp:32938:8" rendition="simple:additions"/> reſpect of thoſe more full diſcoveries, and mani<g ref="char:EOLhyphen"/>feſtations he ſhall make unto us, when we are releaſed out of the body, and disburthened of this cumberſome load of mortality. If this be the natural ſtate of the body, by reaſon of its in<g ref="char:EOLhyphen"/>nate qualities, how much worſe is it with them who render their bodies every day more groſs and vile, whilſt they make proviſion for them to fulfill the luſts thereof? they are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> altogether fleſhly and carnal, or as <hi>Simplicius</hi> ſpeaks, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they are meer lumps of fleſh and blood, and their Souls in ſuch moiſt and diſſolute bodies are in no better condition than a ſpark of fire in a clay lake, which cannot long continue unextinguiſhed.</p>
+            <p n="3">III. The vileneſs of our bodies conſiſts in this that they have ſo many neceſſities that muſt be ſatisfied, if we would preſerve them in any good plight; the decays of Nature muſt be every day repayed with the conſtant ſup<g ref="char:EOLhyphen"/>plies of meat and drink, and the frequent re<g ref="char:EOLhyphen"/>turns of reſt and ſleep.<note place="margin">Fateor, inſitam eſſe nobis corpo<g ref="char:EOLhyphen"/>ris noſtri chari<g ref="char:EOLhyphen"/>tatem: fateor nos hujus gerere tutelam: nec nego indulgen<g ref="char:EOLhyphen"/>dum illi, ſervi<g ref="char:EOLhyphen"/>endum nego. <hi>Sen. Ep.</hi> 14.</note> Now though God not only allows, but commands us to have a due regard to our bodies, and he that neglects him<g ref="char:EOLhyphen"/>ſelf in this kind, ſo far as to hazard his health and unfit him for the neceſſary offices of human life, doth thereby contract no ſmall guilt, yet
+<pb n="10" facs="tcp:32938:9" rendition="simple:additions"/> ſurely the Heaven-born Soul of man doth not without ſome reluctancy and trouble, con<g ref="char:EOLhyphen"/>deſcend to this mean ſervice, eſpecially when it can hardly ever perform its duty without being intangled in ſome inconvenience or other in the very performance of it. There's none among us, but hath had often experience of this, whilſt we think we are gratifying the lawful deſires of Nature, we are many times nouriſhing thoſe luſts which war againſt our Souls,<note place="margin">Dum ad qui<g ref="char:EOLhyphen"/>etem ſatictatis ex indigentiae moleſtiâ tran<g ref="char:EOLhyphen"/>ſeo, in ipſo tran<g ref="char:EOLhyphen"/>ſitu mihi inſi<g ref="char:EOLhyphen"/>diatur laqueus concupiſcentiae. <hi>Conſ. lib. 10. c. 31.</hi>
+               </note> and for fear of ſtarving a friend, feed and maintain a deadly Enemy within us. St. <hi>Auſtin</hi> ſpeaks excellently well in his Con<g ref="char:EOLhyphen"/>feſſions: <hi>Whilſt</hi> (ſaith he) <hi>we paſs from the trouble of hunger to the quietneſs of ſatisfaction, we are inſna<g ref="char:EOLhyphen"/>red in the Cords of our own Concupiſcence, neceſsity bids us paſs, but we have no way to paſs from hunger to fulneſs, but over the bridge of pleaſure:</hi> and al<g ref="char:EOLhyphen"/>though health and life be the firſt cauſe of our eating and drinking, yet as that good man ſad<g ref="char:EOLhyphen"/>ly complains, <hi>Adjungit ſe tanquam pediſſequa peri<g ref="char:EOLhyphen"/>culoſ a jucunditas,</hi> dangerous pleaſure thruſts her ſelf into attendance, and ſometimes endeavors to be the principal. O this is it that afflicts the Soul and Conſcience of many a tender Chri<g ref="char:EOLhyphen"/>ſtian, and makes him to cry out, not without ſome kind of impatience: <hi>Lord, why are the days
+<pb n="11" facs="tcp:32938:9" rendition="simple:additions"/> of my Pilgrimage prolonged? Wherefore doſt thou continue me any longer in this vale of Sin and Miſery?</hi>
+               <note place="margin">Pſal. cxx. 5.</note> 
+               <hi>O wo is me that I dwell in</hi> Meſech, <hi>and inhabit the Tents of</hi> Kedar.</p>
+            <p n="4">IV. The vileneſs of the body conſiſts in this, that it is ſubject to ſo many miſeries and ca<g ref="char:EOLhyphen"/>lamities, to aches and pains, to wounds and bruiſes, to diſeaſes and divers kinds of mala<g ref="char:EOLhyphen"/>dies, ſurely however ſome of us through the kind indulgence of Heaven, may be in a great meaſure free from theſe things, yet we are ne<g ref="char:EOLhyphen"/>ver ſecure from the fear of them, whilſt we have a nature liable to them, and ſee the lives of others whom we have no reaſon to think worſe than our ſelves, ſo far imbittered by them that they ſpend their days in ſighing, and their years in ſorrow and heavineſs.</p>
+            <p n="5">V. To conclude, there needs no more be ſaid to the making out the vileneſs of the body, but that it is a corruptible periſhing dying thing, and hath that within it ſelf, which if there were no danger from without, would not fail at laſt to deſtroy it: ye that are of the ſtrongeſt and moſt athletick conſtitution, muſt at laſt yield to the neceſſity of Nature,<note place="margin">
+                  <hi>Heb.</hi> ix. 27.</note> 
+               <hi>for it is appoin<g ref="char:EOLhyphen"/>ted for all men once to die,</hi> this is the Decree and Ordinance of God; a Law that ſhall never be
+<pb n="12" facs="tcp:32938:10" rendition="simple:additions"/> either repealed or altered.<note place="margin">
+                  <hi>Eccl.</hi> xii. 2.</note> 
+               <hi>The time is coming when the Sun and Moon and Stars ſhall be darkned, and the Clouds return after the Rain:<note place="margin">
+                     <hi>Verſe</hi> 3.</note> When the Keep<g ref="char:EOLhyphen"/>ers of the Houſe ſhall tremble, and the ſtrong Men bow themſelves, and the Grinders ceaſe becauſe they are few,<note place="margin">
+                     <hi>Verſe</hi> 6.</note> and thoſe that look out of the Window be darkned: When the ſilver Cord ſhall be looſed, and the golden Bowl broken, when the Pitcher ſhall be broken at the Fountain, and the Wheel be broken at the Ciſtern,<note place="margin">
+                     <hi>Vehſe</hi> 7.</note> then ſhall the Duſt return to the Earth as it was, and the Spirit to God that gave it.</hi>
+            </p>
+            <p>Thus you ſee by what hath been ſaid, where<g ref="char:EOLhyphen"/>in the vileneſs of the body doth conſiſt. S. <hi>Paul</hi> compriſes all in a little room,<note place="margin">2 <hi>Cor.</hi> v. 1.</note> when he calls it <hi>our Earthly Houſe of this Tabernacle,</hi> by which words he intimates unto us, that it is a poor mean Cottage, ſo ſtrait and narrow, that the Soul is as it were crowded and thruſt up in it, and cannot inlarge nor ſtretch forth it ſelf to its juſt dimenſions? ſo dark that it can ſee no<g ref="char:EOLhyphen"/>thing but through the chinks and holes thereof, and that only that lyes in a ſtrait line before it; ſo weak and ruinous, that it is ever and anon ready to drop down on our heads.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 11.</note>I come now to the ſecond thing deſigned, and that is to enquire how we come to have ſuch vile bodies.</p>
+            <pb n="13" facs="tcp:32938:10" rendition="simple:additions"/>
+            <p>The followers of <hi>Pythagoras</hi> and <hi>Plato,</hi> who held the prae exiſtence of Souls, tell us that they are adjudged and condemned to this condition for their ill demeanour in that higher ſtate: that the Soul growing impure in it ſelf, forthwith loſes its vital congruity with the more thin and ſubtile vehicle of Aether or Air, and requires one of a more groſs conſiſtency, as being more ſuitable to the moral turpitude, and impurity ſhe hath contracted through her ſinful Apoſtaſie and turning aſide from God.</p>
+            <p>But theſe are the conjectures of men in the dark: let us ſee what account the Holy Scri<g ref="char:EOLhyphen"/>ptures will give us in this matter. There we read that Man when he came firſt out of the hands of God, was an excellent Creature, and the Maſterpiece of the whole viſible Creation: the Image of God was reſplendent in him, and the Divine Glory reſted upon him, his Soul was full of light and purity, and his body that was framed out of the uncorrupted Earth, was wrought into a delicacy and fineneſs corre<g ref="char:EOLhyphen"/>ſpondent to it, ſo that it was as a Cryſtal Caſe through whoſe tranſparent ſides might in a ſort be ſeen the ſparkling luſtre of that Jewel that was incloſed therein: the humors were equal<g ref="char:EOLhyphen"/>ly mixt, and every part moſt exactly fitted and
+<pb n="14" facs="tcp:32938:11" rendition="simple:additions"/> proportioned, there was no defect nor defor<g ref="char:EOLhyphen"/>mity in him. This was the ſtate of Man whilſt innocent, but alaſs he ſinned, and no ſooner had he ſinned but immediately he found the ſad effects thereof within himſelf, the light and joy which was ere while within him, was now tur<g ref="char:EOLhyphen"/>ned into darkneſs and ſadneſs, his hope and confidence into fear, and a dread of the Divine diſpleaſure. He who before did familiarly con<g ref="char:EOLhyphen"/>verſe with God, now flies his preſence, and would if poſſible hide his guilty head from him. Now it was that death according to the threat<g ref="char:EOLhyphen"/>ning got within him, and planted there the principles of corruption: now the body be<g ref="char:EOLhyphen"/>came as it's here called a vile body, a neceſſitous indigent body, a paſſive ſuffering body, a weak and frail body, a periſhing and corruptible bo<g ref="char:EOLhyphen"/>dy, it was ſin that was the true cauſe of all this miſery and infelicity of ours, it was ſin that ſpoil'd the harmony, that broke the peace, that ſtirred up the humors, that diſcompoſed the ſpirits, that clouded the glory and majeſty of the body, and reduced it to that mean and con<g ref="char:EOLhyphen"/>tracted ſize that now it is of. Through ſin it is that we became liable to ſo many changes, to perils from above, the malignant influences of the ſtars, and the poyſonous blaſts of the air; to
+<pb n="15" facs="tcp:32938:11" rendition="simple:additions"/> perils from below, the deadly productions of the earth, which nouriſh for a while, but lay the ſeeds of death within us; to perils and dangers from every thing round about us, and with which we do converſe. It was ſin that caſt us out of the Paradiſe of God, that drave us from under the ſhade of the Tree of Life, that ſhut us up in our priſons, and ſeal'd us up in our vile bodies as in a grave: had we never ſinned we had never been thus reſtrained by our bodies, thus oppreſſed and burthened with our bodies, thus wearied and tired with our bodies; had we continued in the condition wherein we were at firſt created, they would have been no more a burthen to us, than are feathers to the birds whereby they fly from place to place.</p>
+            <p>Thus having clear'd unto you the ſecond par<g ref="char:EOLhyphen"/>ticular, how we came to have ſuch vile bodies, I proceed according to the method propoſed to improve the point, and that I ſhall do by way of Information, by way of Reproof, and by way of Exhortation.</p>
+            <p n="1">I. By way of Information, and it will inform us of two things.</p>
+            <p n="1">1. Of the great evil of ſin, in that it hath marr'd and ſpoil'd one of the moſt beautiful pieces of the Creation. Perhaps we cannot,
+<pb n="16" facs="tcp:32938:12" rendition="simple:additions"/> or at leaſt will not, ſee the evil of ſin in its own nature and as it is conſidered in it ſelf: O ſee it in its effects and conſequents, you may know how corrupt and impure the fountain is, by the muddy and polluted ſtreams that flow imme<g ref="char:EOLhyphen"/>diately from it; you may know how bad the tree is, by the bitter and unwholſome fruits it produceth. There is no evil in the world, no vanity in the creature, no diſorder within your ſelves, that doth not owe its original to the ſin of man, all your deformities, all your imper<g ref="char:EOLhyphen"/>fections, all your decays and weakneſſes, all your pains, and griefs, and maladies, are the effects of ſin. O think of this whenever you are tired and wearied with a dull and heavy body, whenever you are afflicted and troubled with a ſickly diſtempered body, and indeavour to work your hearts to a perfect abhorrency, and deteſtation of that, which hath been the Author and Occaſion of ſo much miſchief to you. All men cannot ſee the diſorders and con<g ref="char:EOLhyphen"/>fuſions that ſin hath wrought upon the Soul: to this there is required the ſpecial illumination of the Spirit, whoſe peculiar work it is to con<g ref="char:EOLhyphen"/>vince the world of ſin; but we may all ſee the fearful work it hath made upon our bodies. O take heed of it, fly from it, as from the face of a
+<pb n="17" facs="tcp:32938:12" rendition="simple:additions"/> Serpent; the more you ſin the more vile you will be, the more you ſin the more groſs, the more earthy, the more ſottiſh and ſtupid you will be: Nay your very Souls themſelves though in their nature and ſubſtance Spiritual and Immortal beings, ſhall at laſt be intangled in the ſame condition with your bodies: and when at the coming of <hi>Chriſt,</hi> holy men,<note place="margin">
+                  <hi>Rom.</hi> viii. 13.</note> 
+               <hi>who have by the Spirit mortified the deeds of the body,</hi>
+               <note place="margin">
+                  <hi>Gal.</hi> v. 24.</note> 
+               <hi>and crucified the fleſh with the affections and luſts thereof,</hi>
+               <note place="margin">
+                  <hi>Eſaiae</hi> xl. 31.</note> 
+               <hi>ſhall mount up as upon the wings of Eagles;</hi> you ſhall be forced downwards by the weight of your own carnal and corrupt affections, and remain below as the dregs and ſediment of the Earth, to be burnt (though not conſumed) in thoſe laſt flames, as the filth and ordure of <hi>Jeruſalem,</hi> in the Valley of the Sons of <hi>Hinnom.</hi>
+            </p>
+            <p n="2">2. This informs us of the rare harmony and agreement of the Divine Attributes manifeſtly declared in Gods dealing with fallen man. Be<g ref="char:EOLhyphen"/>hold the juſtice of God in the puniſhment of man upon his tranſgreſſion, with ſuch a body as this is: Behold the wiſdom and goodneſs of God, in that he makes the puniſhment in<g ref="char:EOLhyphen"/>flicted on him, the means of his recovery: it was for our ſins that our bodies were made thus vile, and yet through this vileneſs of our bodies,
+<pb n="18" facs="tcp:32938:13" rendition="simple:additions"/> are our Souls by the powerful grace of God, rai<g ref="char:EOLhyphen"/>ſed and exalted to a ſtate of glory; for hereby it is that we are tried and exerciſed, hereby it is that we are made patient and ſubject to the Divine Will and Pleaſure, hereby it is that we are humbled and made vile in our own eyes, and our humiliation is the way and means of our exaltation. Man fell by pride, but he is raiſed by humility, he fell by affecting to be like unto God, but he is raiſed by knowing him<g ref="char:EOLhyphen"/>ſelf to be a poor vile wretched ſinful man, who is wholly helpleſs in himſelf, and can do no<g ref="char:EOLhyphen"/>thing to any purpoſe in order to his own hap<g ref="char:EOLhyphen"/>pineſs, without the ſpecial Grace of God ina<g ref="char:EOLhyphen"/>bling him thereunto.</p>
+            <p n="2">II. This Doctrine may be applyed by way of Reproof, and it reproves three ſorts of Men.</p>
+            <p>Firſt, Such as pride and glory in the body.</p>
+            <p>Secondly, Such as beſtow all their thoughts and care on the body.</p>
+            <p>Thirdly, Such as are unwilling to die and leave the body.</p>
+            <p>Firſt, Such as pride and glory in the body. Why ſhould duſt and aſhes be ſo proud? Man that is a Worm, and the Son of Man that is a Worm? Is it becauſe of his ſtrength? Yet a
+<pb n="19" facs="tcp:32938:13" rendition="simple:additions"/> little while and his haughty looks ſhall be aba<g ref="char:EOLhyphen"/>ſed, and his threatning countenance that ſtrikes a terror into the hearts of his fellow creatures, be covered with a ghaſtly paleneſs: his pomp ſhall be brought down to the grave, and his glo<g ref="char:EOLhyphen"/>ry laid in the duſt:<note place="margin">
+                  <hi>Iſa.</hi> xiv. 16.</note> 
+               <hi>They that ſee him ſhall narrowly look upon him, and conſider him, ſaying, Is this the man that made the Earth to tremble, that did ſhake King<g ref="char:EOLhyphen"/>doms?<note place="margin">
+                     <hi>cap.</hi> xciii. 17.18.</note> His remembrance</hi> (as it is in the Book of <hi>Job) ſhall periſh from the Earth, and he ſhall have no name in the Street: He ſhall be driven away from Light into Darkneſs, and chaſed out of the World.</hi> Again, is it his beauty that he pleaſes himſelf in? Yet a little while, and his comlineſs ſhall be turned into deformity, and that face that men now ſtare and gaze at, not only with admi<g ref="char:EOLhyphen"/>ration, but with a kind of adoration alſo, ſhall become ſo loathſome, that they who were for<g ref="char:EOLhyphen"/>merly ſo exceedingly taken with it, ſhall not endure to look at it: <hi>We may all ſay to corruption,</hi>
+               <note place="margin">
+                  <hi>Job</hi> xvii. 14.</note> 
+               <hi>thou art our Father, and to the worm, thou art our Mother and Siſter:</hi> Where's then the cauſe of our glorying?</p>
+            <p>Secondly, This reproves thoſe who beſtow all their thoughts and care on the body, whoſe work and buſineſs it is to adorn and beautifie it, to indulge and pamper it, to pleaſe and gratifie
+<pb n="20" facs="tcp:32938:14" rendition="simple:additions"/> it in its moſt unreaſonable appetites and de<g ref="char:EOLhyphen"/>ſires. Perhaps it will be a difficult matter to convince you of the ſin and folly of this now, whilſt your bones are full of marrow, and your blood circulates freely in your veins: whilſt you are well at eaſe, and have nothing to mo<g ref="char:EOLhyphen"/>leſt and trouble you; but tell me what will your thoughts be, when you ſhall ſtand upon the ſides of the grave, and are ready to go down into the pit: when the foundation begins to ſink under you, when the pillars of the houſe tremble, when your feet ſtumble upon the dark mountains, when death lays his palſie hands on you: but I would not have you tarry ſo long for a conviction; walk forth into the Church-yard, enter into the Charnel-houſe, and there view the bodies of thy deceaſed friends, <hi>poſt peractum Sepulchri myſterium,</hi>
+               <note place="margin">Pudeat corpus tantae ſoe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itati reſervatum ſic amare, ſic or<g ref="char:EOLhyphen"/>nare, ſic colere, ſic nutrire. <hi>De Lingend.</hi>
+               </note> after they are turned into corruption and rottenneſs, and then return to thy ſelf and ſay, As they are ſo muſt I ſhortly be, and ſhall I for ſuch a vile body neglect my God, my Soul, my Happineſs? Oh what folly can be greater, or more below the reaſon of a man than this is!</p>
+            <p>Thirdly, This Doctrine reproves ſuch as are unwilling to die, and leave the body. This branch of the reproof concerns the Chriſtian
+<pb n="21" facs="tcp:32938:14" rendition="simple:additions"/> only, I mean ſuch a one, who hath the Spirit of <hi>Chriſt</hi> in him, and hath hopes towards God, through the Mediator;<note place="margin">Mori timeat ſed qui aquâ &amp; Spiritu non re<g ref="char:EOLhyphen"/>natus gehenn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ignibus manci<g ref="char:EOLhyphen"/>patur. <hi>Cypr.</hi>
+               </note> as for other men who either know not what ſhall become of them, or elſe being condemned by their own Conſcien<g ref="char:EOLhyphen"/>ces, antedate their torments by their juſt fears, I cannot blame them to be unwilling, yea very unwilling to die, though the body be a priſon, yet it is better than the place of Execution: though it be a dungeon, a place of darkneſs and horror, yet it is much better than the Rack and the Wheel; and therefore no wonder if they be deſirous to tarry here, and cannot endure to think of going forth: but for the Chriſtian who hath aſſurance of the Pardon of his ſin, and knows that when he goes hence, he ſhall be re<g ref="char:EOLhyphen"/>ceived into the Paradiſe of God, and be ad<g ref="char:EOLhyphen"/>mitted to the participation of thoſe joys, that infinitely tranſcend the higheſt entertainments of ſenſe, is one of the moſt unaccountable things immaginable. What wouldeſt thou have thought of <hi>Joſeph,</hi> if after ſo long an impriſon<g ref="char:EOLhyphen"/>ment, he had been unwilling to come into the preſence of <hi>Pharaoh,</hi> or to be advanced in the Kings Court? or of <hi>Daniel</hi> if he had choſen ra<g ref="char:EOLhyphen"/>ther to have ſate ſtill among the Lions, than to be delivered thence, and reſtored to his former
+<pb n="22" facs="tcp:32938:15"/> dignity? or of <hi>Jonah,</hi> if he had preferred the belly of a Whale, where the depth cloſed him round about, and the weeds were wrapt about his head before the enjoyment of light and liberty with other men? Why, thy folly is much greater, inaſmuch as thou refuſeſt a greater bleſſing than any of the forementioned ones, and chooſeſt a condition far worſe than theirs. Search into the cauſes of it and you ſhall find, that it proceeds from the weakneſs of your Faith, from the remiſneſs of your Love to God, from the flatneſs of your deſires, from the low<g ref="char:EOLhyphen"/>neſs and darkneſs of your ſpiritual apprehenſi<g ref="char:EOLhyphen"/>ons, and from your unmortified affections: you are not yet throughly crucified to the world, nor is the world crucified to you: there is a ſecret hankering after it, a ſecret delight, and ſatisfaction in it, whatever you pretend to the contrary, were it not ſo, you would long earneſtly for your enlargement, and with Saint <hi>Paul,</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> i. 23.</note> 
+               <hi>deſire to be diſſolved and to be with Chriſt,</hi> which is far better.</p>
+            <p n="3">III. This Doctrine exhorts us to a noble and generous contempt of the body. Is it ſo vile a thing; ſo mean and contemptible a thing in the ſenſe I have explained it? O then do not ſpend thy time, thy ſtrength, thy ſub<g ref="char:EOLhyphen"/>ſtance
+<pb n="23" facs="tcp:32938:15"/> in providing for it, or in the ſatisfaction of it: but think of the poor Soul that is im<g ref="char:EOLhyphen"/>priſoned in it, labour as much as you can to in large its condition here, to ſeparate it as much as may be from the body, to advance it as far as your preſent ſtate is capable, above the body. Would you not think him a mad man that ſhould ſtop up all, both peeping and breathing holes in his Priſon, that ſhould deſire that the walls thereof might be made much ſtronger, and the doors be bolted much faſter? Such is the folly of thoſe men who mind nothing more than the good habit of their body. O transfer your care from the Body to the Soul; for that muſt ſhortly lie down in the duſt and periſh, but this ſhall abide for ever. Think therefore how thou mayeſt provide for its ſecurity, how thou mayeſt get a manſion in the Heavens, that ſo when thou goeſt hence, thou mayeſt not be at ſuch an uncertainty as the generality of men are, who know not what ſhall become of them, or where their Eternal abode ſhall be. When thou doſt diſregard, and ſlight thy body, upon the deſign of promoting the health and happi<g ref="char:EOLhyphen"/>neſs of thy Soul, thou ſheweſt the higheſt regard to and care for it imaginable: for as our Sa<g ref="char:EOLhyphen"/>viour ſaith, <hi>He that loveth his life ſhall loſe it,</hi>
+               <note place="margin">
+                  <hi>John</hi> xii. 25.</note> 
+               <hi>and he
+<pb n="24" facs="tcp:32938:16" rendition="simple:additions"/> that hateth his life in this world, ſhall keep it unto life eternal.</hi> So he that expreſſes his love to his body, by ſtudying the pleaſure and ſatisfaction of it, doth take an effectual courſe to deſtroy it, but he that deſpiſes and neglects it for the ſake of <hi>Chriſt,</hi> doth hereby infallibly ſecure its everlaſting welfare: for whoſoever hath an intereſt in <hi>Chriſt,</hi> may be aſſured that at his coming, <hi>he will change this vile body that it may be faſhion'd like unto his glorious body, according to the working whereby he is able even to ſubdue all things unto himſelf:</hi> and ſo this leads me to the ſecond thing contained in the words, namely what ſhall be the ſtate of the body at the reſur<g ref="char:EOLhyphen"/>rection, it ſhall be transformed into the ſimili<g ref="char:EOLhyphen"/>tude or likeneſs of the glorious body of <hi>Chriſt.</hi>
+            </p>
+            <p>In treating of this I ſhall obſerve this order or method.</p>
+            <list>
+               <item>I. To declare unto you what kind of change this ſhall be, and wherein it doth conſiſt.</item>
+               <item>II. To ſhew what aſſurance we have of it, or what grounds and reaſons to perſuade our ſelves, that thus it ſhall be.</item>
+               <item>III. To ſtir you up to a ſerious meditation of it, that you may find the power and influ<g ref="char:EOLhyphen"/>ence of this great truth upon your own hearts.</item>
+            </list>
+            <p>As for the firſt, what kind of change this
+<pb n="25" facs="tcp:32938:16" rendition="simple:additions"/> ſhall be: it is evident that it ſhall not be a ſub<g ref="char:EOLhyphen"/>ſtantial change from the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> here made uſe of, by which is intimated unto us, that the ſame ſubſtance ſhall remain, only it ſhall have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, not another ſhape, for the form and figure and lineaments of the body ſhall not be altered, but another appearance, as being freed from all thoſe evil qualities that were contracted by ſin, and adorned with all the excellencies and perfections it is capable of. This body of ours, that we now carry about with us, this vile body that is liable to ſo many injuries, that is deformed with blindneſs, crip<g ref="char:EOLhyphen"/>led with lameneſs, weakned with ſickneſs, pined with hunger, dried with thirſt, ſcorched with heat, contracted with cold, this very body ſhall <hi>Chriſt</hi> change that it may be faſhioned like unto his own body, and that not as it was upon Earth, but as it was when raiſed up by the mighty power of God like to his glorious body. Saint <hi>Chryſoſtom</hi> when diſcourſing upon this place,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſoſt. Hom. <hi>13.</hi> in Ep. ad Philipp.</note> could not contain himſelf but break out into a rapture of joy and admiration. <hi>Oh won<g ref="char:EOLhyphen"/>derful,</hi> ſaith he, <hi>that this vile body, this earthy, this corruptible body, ſhould be made like unto that body, wherein</hi> Chriſt <hi>ſitteth at the right hand of the Father: like unto that body wherein he is Worſhipped and Ado<g ref="char:EOLhyphen"/>red
+<pb n="26" facs="tcp:32938:17" rendition="simple:additions"/> by all the Heavenly Hoſt.</hi> Who hath heard ſuch a thing? who could ever have imagined ſuch a thing? it ſhall be made like unto the glorious body of <hi>Chriſt,</hi> in the participation of the ſame excellent qualities. This is ſtrange and we cannot but wonder at it, but yet we may, nay we muſt believe it, for he hath ſaid it, and he will do it ſince he is able <hi>according to the working whereby he is able even to ſubdue all things to himſelf.</hi> If you deſire to underſtand more par<g ref="char:EOLhyphen"/>ticularly the nature of this change,<note place="margin">Scritur <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> manitum &amp; uſque quaque veſtitum. <hi>Tertul. de Reſur. carn.</hi>
+               </note> the Apoſtle will inform you fully in the 15. Chapter of the firſt Epiſtle to the <hi>Corinthians,</hi> and the 42, 43, and 44. verſes, <hi>It is ſown in corruption, it is raiſed in incorruption: it is ſown in diſhonour, it is raiſed in glory: it is ſown in weakneſs, it is raiſed in power: it is ſown a natural body, it is raiſed a ſpiritual body.</hi> O conſider this well, we ſhall have ſpiritual bodies: not in the ſtrict and moſt proper ſenſe of the word, for ſo a ſpiritual body is a contra<g ref="char:EOLhyphen"/>diction, but we ſhall have pure refined quick and agil bodies, which if compared with theſe to which we are now reſtrained, may well be called Spiritual. We ſhall have ſpiritual bodies, that is, ſuch as the bleſſed ſpirits wear when they go upon Heavens Embaſſies, plyant and yielding to all the motions of the Soul, like
+<pb n="27" facs="tcp:32938:17" rendition="simple:additions"/> their vehicles of Aether. We ſhall have incor<g ref="char:EOLhyphen"/>ruptible bodies, that is, ſuch which ſhall not ſtand in need to be repaired, and kept up by the conſtant ſupplies of meat and drink: ſuch which ſhall ſubſiſt unchangeably without thoſe helps which nature now requires as neceſſary to the preſervation thereof: we ſhall have in<g ref="char:EOLhyphen"/>corruptible bodies, that is, ſuch which cannot be aſſaulted with ſickneſs, with pains and aches, and diſtempers: ſuch which ſhall never decay, myriads of Ages ſhall not make the flower of our youth to fall or fade, nor bring the leaſt wrinkle or deformity upon us: there ſhall be an everlaſting ſpring, our greenneſs and ver<g ref="char:EOLhyphen"/>dure ſhall never be turned: we ſhall have in<g ref="char:EOLhyphen"/>corruptible bodies, that is, we ſhall never die, for where there is no ſin there can be no death: there ſhall be none of the cauſes of death, nei<g ref="char:EOLhyphen"/>ther natural within us, nor accidental from without us: There ſhall be no Serpent in that Paradiſe of God, no Tempter, no forbidden fruit: there ſhall be no infectious Air, there ſhall be no death in the land of the living.</p>
+            <p>Again, our bodies ſhall be raiſed in power; they ſhall have a wonderful ſtrength and vigor, whereby they may be inabled to bear that ex<g ref="char:EOLhyphen"/>ceeding weight of glory.</p>
+            <pb n="28" facs="tcp:32938:18" rendition="simple:additions"/>
+            <p>We ſhall have glorious bodies, God ſhall re<g ref="char:EOLhyphen"/>fine them, and make them like the pureſt sky, <hi>they ſhall ſhine like the brightneſs of the firmament,</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> xii. 3.</note> 
+               <hi>and as the ſtars for ever and ever. Then ſhall the Righteous ſhine forth as the Sun in the Kingdom of their Father,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> xiii. 43.</note> as our Saviour tells us, adding im<g ref="char:EOLhyphen"/>mediately, <hi>who hath ears to hear let him hear.</hi>
+               <note place="margin">Fulgtbit anima luce divinae ſa<g ref="char:EOLhyphen"/>pientiae ex quâ luce r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpiendeſ<g ref="char:EOLhyphen"/>centia quae<g ref="char:EOLhyphen"/>dam in ip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra transfundet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</note> Now, beſides what Scripture hath ſaid, it is clear and evident to our very reaſon, that there ſhall be ſuch a change wrought upon the body, whether we conſider the exalted ſtate of the Soul, which is to be united to it, or the nature of the place where it is to have its conſtant reſidence and abode, even the Heaven of Heavens, the Court and Palace of the great King, where there is no Earth nor Water, nor any other of the Ele<g ref="char:EOLhyphen"/>ments of this lower World, neither any of the Creatures that live in them, but pure light of unconceivable brightneſs; now ſince we are to be in ſuch a place, our bodies muſt have ſuch qualities as ſhall be correſpondent and ſuitable to the purity of it; for otherwiſe we ſhould not be capable of living in it: the groſsneſs and heavineſs of our bodies, would incline and ſway us down to this dull Earth again: we ſhould ſoon be weary of that ſtrange place, and groan and ſigh to be delivered from it, as the pure and
+<pb n="29" facs="tcp:32938:18" rendition="simple:additions"/> holy Souls of good men do from this. Now conſider ſeriouſly with your ſelves, what the advantages of this glorious change ſhall be: it is a thing agreed upon by learned men and ap<g ref="char:EOLhyphen"/>proved by experience, that the frame and tem<g ref="char:EOLhyphen"/>per of our minds doth much depend upon the prevailing humors of our body; nothing is more plain than this, the mutability and changeableneſs of the diſpoſition of our minds may convince us of it: how are we at ſome times preſt down with the weight of the body, being almoſt ſtifled and ſuffocated with the noyſome vapors that do aſcend from it, inſo<g ref="char:EOLhyphen"/>much that we can neither think, nor act with that force and vigor that is proper to the Soul and Spirit of man: we become in a manner meer lumps of clay, and 'tis an hard matter to diſcern any thing in us that may diſtinguiſh us from the very brute creatures; and yet we the very ſame perſons, when the cloud is removed, when the fog that benighted us is diſperſed and ſcattered, what an alteration do we find? how ſerene and clear are our minds? how free are our thoughts? how nimble and active is the Soul, and how quick and lively in all its moti<g ref="char:EOLhyphen"/>ons and operations? Now think with your ſelves if a good temper of body, can ſo much
+<pb n="30" facs="tcp:32938:19" rendition="simple:additions"/> promote the pleaſure and happineſs of our minds whilſt we are here, what an exalted con<g ref="char:EOLhyphen"/>dition ſhall we be in when our bodies are be<g ref="char:EOLhyphen"/>come wholly ſpiritual; when there ſhall be no groſs or earthly alloy in our conſtitution, when the clouds ariſing from theſe lower regions ſhall never interpoſe or come between the Soul and its glorious object. But ſo much may ſuf<g ref="char:EOLhyphen"/>fice to be ſpoken concerning the firſt particu<g ref="char:EOLhyphen"/>lar, <hi>viz.</hi> What this change ſhall be, and wherein it doth conſiſt.</p>
+            <p n="2">II. I come now to the ſecond thing inten<g ref="char:EOLhyphen"/>ded, and that is to ſhew what aſſurance we have of it, or what grounds and reaſons there are to perſuade our ſelves, that thus it ſhall be, and this I ſhall diſpatch in a few words: we have as great aſſurance as the thing is capable of, and it lies in theſe four particulars.</p>
+            <p>Firſt, in the promiſe of God who in his Word hath declared, that whomſoever he leads by his Counſels he will bring at laſt to his glory, be<g ref="char:EOLhyphen"/>ſides my Text there are divers other paſſages of Scripture which I have occaſionally mentioned already, and therefore ſhall not trouble you with a needleſs repetition of them, only give me leave to ſhew you what reaſon you have to acquieſce and reſt ſatisfied in theſe promiſes,
+<pb n="31" facs="tcp:32938:19" rendition="simple:additions"/> and that both upon the account of his power, and of his truth and faithfulneſs: upon the ac<g ref="char:EOLhyphen"/>count of his power, he is Omnipotent, he is Al<g ref="char:EOLhyphen"/>mighty, he can do whatever he pleaſes: men may promiſe and not be able to perform, but we cannot conceive any ſuch thing concerning God, without doing him the greateſt injury imaginable, he that made the world of nothing, and framed theſe bodies of ours out of the duſt, how eaſie a thing is it for him to change theſe vile bodies of ours and transform them into the likeneſs of that of our glorious Redeemer. Again, we have reaſon to depend and rely, without ſcruple upon the promiſe of God, if we conſider his truth and faithfulneſs, he cannot lye nor deceive his creatures: thoſe are weak<g ref="char:EOLhyphen"/>neſſes and imperfections utterly inconſiſtent with the holy nature of God: and therefore the Scripture pronounces them bleſſed who truſt in God in a right manner, becauſe it is im<g ref="char:EOLhyphen"/>poſſible they ſhould be deceived, or diſappoin<g ref="char:EOLhyphen"/>ted. <hi>Pſal.</hi> 146.5, 6. <hi>Happy is he who hath the God of</hi> Jacob <hi>for his help,</hi>
+               <note place="margin">In omnibus De<g ref="char:EOLhyphen"/>um frielem in<g ref="char:EOLhyphen"/>venim is, in ultimo deficiet, &amp; faliet? <hi>Auguſt.</hi>
+               </note> 
+               <hi>whoſe hope is in the Lord his God, which made Heaven and Earth, and all that therein is, which keepeth truth for ever.</hi> Now this God who is juſt in all his Actions, and true and faithful in all his ſayings hath told us, that he
+<pb n="32" facs="tcp:32938:20"/> will glorifie theſe vile bodies of ours, 1 <hi>Tit.</hi> 2. <hi>In hope of Eternal Life, which God that cannot lye hath promiſed unto us.</hi>
+            </p>
+            <p n="2">II. Our aſſurance lyes in the reſurrection and glorification of <hi>Chriſt,</hi> which was not only an Example and Pattern of ours, but is alſo the Cauſe; becauſe he is riſen we ſhall riſe alſo, becauſe he is glorified we may be ſure we ſhall be glorified together with him. This appears from the relation we bear unto him: he is our head, we are the members of his body; now if the head be glorious, ſo ſhall we his members be alſo: we are his ſervants and followers, and therefore may conclude he will in his due time receive us unto himſelf, according to thoſe gracious words of his;<note place="margin">
+                  <hi>J<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> xii 26.</note> 
+               <hi>If any man ſerve me, let him follow me. And where I am there ſhall my ſervant be alſo: If any man ſerve me, him will my Father honour.</hi>
+            </p>
+            <p n="3">III. Our aſſurance lies in that full perſuaſion of it, which is in the hearts of all holy men, the friends and lovers of God, who live in the ex<g ref="char:EOLhyphen"/>pectation of this great and wonderful change and rejoyce in the hope and glory of God.<note place="margin">2 <hi>Cor.</hi> v. 1.</note> 
+               <hi>We know,</hi> ſaith St. <hi>Paul</hi> in the name of all the faith<g ref="char:EOLhyphen"/>ful, <hi>that when our earthly houſe of this tabernacle ſhall be diſſolved, we have a building of God, an houſe not made with hands, eternal in the heavens.</hi> We
+<pb n="33" facs="tcp:32938:20" rendition="simple:additions"/> know, that is, we are aſſured of it: it is not a bare conjecture, a mere probability, a ground<g ref="char:EOLhyphen"/>leſs conceit or opinion; no, what were this but to build upon the ſand; but it is knowledge, that is, a thing truly demonſtrable, we may ſee the firmneſs of this perſuaſion in the mighty influ<g ref="char:EOLhyphen"/>ence it hath upon them, both as to piety, and as to courage and patience: as to piety,<note place="margin">2 <hi>Cor.</hi> vii. 1.</note> 
+               <hi>for having theſe promiſes, they endeavoar to purifie them<g ref="char:EOLhyphen"/>ſelves from all uncleanneſs both of fleſh and ſpirit,</hi>
+               <note place="margin">1 <hi>Col.</hi> 12.</note> 
+               <hi>and to perfect holineſs in the fear of the Lord, that ſo they may be meet to be partakers of the inheritance of the Saints in light: as well knowing that fleſh and blood cannot inherit the Kingdom of God,</hi>
+               <note place="margin">1 <hi>Cor.</hi> xv. 50.</note> 
+               <hi>and that cor<g ref="char:EOLhyphen"/>ruption ſhall not inherit incorruption.</hi> Again, as to Courage and Patience, it is the full perſuaſion of this, that makes them to ingage upon the moſt difficult duties and to deſpiſe the greateſt dangers that are in their way; to hazard their perſons,<note place="margin">
+                  <hi>Mat.</hi> x. 39.</note> knowing <hi>that if they loſe their lives for Chriſts ſake they ſhall find it:</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> x. 34.</note> 
+               <hi>to take joyfully the ſpoiling of their goods, knowing in themſelves that they have in Heaven a better and an enduring ſubſtance.</hi> Now is there ſuch a confident expectation in the hearts of holy men? is this perſuaſion be<g ref="char:EOLhyphen"/>gotten in them by the Word, and ſhall we dare to doubt of it? But to conclude.</p>
+            <pb n="34" facs="tcp:32938:21" rendition="simple:additions"/>
+            <p>Our aſſurance lies in the firſt fruits and be<g ref="char:EOLhyphen"/>ginnings of it within our ſelves: But what are theſe firſt fruits? they are the graces and work<g ref="char:EOLhyphen"/>ings of the Spirit within us, whereby we are changed from what naturally we were, and created again after the Image of God in righte<g ref="char:EOLhyphen"/>ouſneſs and true holineſs. This renovation of our minds, this reſtauration of our Souls to their original qualities, is a certain pledge of the re<g ref="char:EOLhyphen"/>ſurrection of our bodies, and their glorious ad<g ref="char:EOLhyphen"/>vancement by <hi>Chriſt.</hi>
+               <note place="margin">
+                  <hi>R<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> viii. 11.</note> 
+               <hi>If the Spirit of him that raiſed up</hi> Jeſus <hi>from the dead dwell in you, he that raiſed up</hi> Chriſt <hi>from the dead ſhall alſo quicken your mortal bodies by his Spirit that dwelleth in you.</hi> In this reſpect it is, that the Spirit is called <hi>the ear<g ref="char:EOLhyphen"/>neſt of our inheritance,</hi>
+               <note place="margin">1 <hi>Eph.</hi> xiii. 14.</note> and we are ſaid to be <hi>ſealed by the holy ſpirit of promiſe, until the redemption of the purchaſed poſſeſsion, unto the praiſe of his glory.</hi>
+            </p>
+            <p>To carry this a little farther, there are ſome who tell us that this change is begun in our bo<g ref="char:EOLhyphen"/>dies even in this life, they being by vertue of that true and real regeneration, that is wrought upon the Soul rectified into a divine tempera<g ref="char:EOLhyphen"/>ment, and this they think the Apoſtle doth not obſcurely intimate in the five firſt verſes of the fifth Chapter of the ſecond Epiſtle to the <hi>Corin<g ref="char:EOLhyphen"/>thians.</hi> But to wave this, by what I have already
+<pb n="35" facs="tcp:32938:21" rendition="simple:additions"/> ſaid you may ſee that we have very good rea<g ref="char:EOLhyphen"/>ſon to believe, and expect this glorious change.</p>
+            <p>I come now to the third thing propoſed, and that is to excite and ſtir you up to a ſerious me<g ref="char:EOLhyphen"/>ditation of this great truth, think much of your future happineſs, and of the glory that is to be revealed at the coming of <hi>Chriſt.</hi> The covetous man is alwaies thinking of the world, his heart goeth out after his covetouſneſs as the Spirit of God deſcribes him: the voluptuous man is al<g ref="char:EOLhyphen"/>waies thinking of his pleaſure, either he enter<g ref="char:EOLhyphen"/>tains himſelf with the images of his paſt delights, or he lays the deſign of ſome new one. The Ambitious man hath alwaies the pleaſing Ideas of greatneſs and honour before him. O do you who are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> free Denizons of Hea<g ref="char:EOLhyphen"/>ven, Citizens of the New <hi>Jeruſalem,</hi> that City that is above, employ your thoughts upon more worthy objects: while others mind Earthly things do you mind thoſe that are Heavenly, <hi>ſet your affections on things above,</hi>
+               <note place="margin">
+                  <hi>Col.</hi> iii. 2, 3.</note> 
+               <hi>not on things on the Earth, for ye are dead, and your life is hid with Chriſt in God.</hi> It will be of great benefit and advan<g ref="char:EOLhyphen"/>tage to you, for</p>
+            <p n="1">I. It will raiſe and innoble your Souls and make you look down with an holy diſdain upon all things that are circumſcribed and con<g ref="char:EOLhyphen"/>fined
+<pb n="36" facs="tcp:32938:22"/> within this ſphere of vanity, as things that are below you, that are utterly unſutable to you: he that remembers that life above, will never be very fond of this preſent life; he that remembers the fulneſs of joy that is in Gods preſence, and the rivers of pleaſure that are at his right hand for evermore, will be aſhamed that thoſe imaginary joys, and momentary pleaſures of ſin, which the ſenſual Epicure is ſo much tranſported with, ſhould ever controll or have any power over him: he that often re<g ref="char:EOLhyphen"/>members the unſpeakable glory with which <hi>Chriſt</hi> ſhall honour thoſe who have been his faithful friends and followers, will never have his eyes dazled with any worldly pomp or greatneſs. Nay, ſhould we ſuppoſe the Devil ſhould deal with him, as he did with our bleſ<g ref="char:EOLhyphen"/>ſed Saviour, take him up to an high mountain, ſcatter an airy horizon about him, and therein according to the beſt of his skill repreſent to the utmoſt advantage all the glory of the world, he would preſently ſee through the impoſture, and diſcover the cheat: for what can be great or glorious to him who by faith hath ſeen things inviſible, which do infinitely excell and go be<g ref="char:EOLhyphen"/>yond whatever is ſeen.<note place="margin">2 <hi>Cor.</hi> iv. 18.</note> 
+               <hi>For the things that are ſeen are temporal, but the things that are not ſeen are Eternal.</hi>
+            </p>
+            <p n="2">
+               <pb n="37" facs="tcp:32938:22" rendition="simple:additions"/>II. The frequent meditation of this glory would quicken our diligence, and make us more ſerious and earneſt in our reſpective du<g ref="char:EOLhyphen"/>ties. The Apoſtle makes this uſe of it in the cloſe of his excellent diſcourſe concerning the reſur<g ref="char:EOLhyphen"/>rection, <hi>Therefore my dearly beloved brethren be ye ſtedfaſt and unmovable,</hi>
+               <note place="margin">1 <hi>Cor.</hi> xv. 5<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>alwaies abounding in the work of the Lord, foraſmuch as ye know, that your labor ſhall not be in vain in the Lord.</hi> What can we do ſufficient to expreſs our love to him who hath done ſuch great things for us? who hath pre<g ref="char:EOLhyphen"/>pared a ſtate of endleſs glory for us? ſhall we be careleſs, and ſlighting and drowſie in the ſer<g ref="char:EOLhyphen"/>vice of ſuch a Maſter? No ſurely, if we have any ſenſe of gratitude, let us labour after the counſel of the Apoſtle, <hi>to abound in the work of the Lord:</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> i. 11.</note> 
+               <hi>let us endeavour that we may be filled with all the fruits of righteouſneſs which are by</hi> Jeſus Chriſt <hi>to the praiſe and glory of God. Let us give all diligence to add to our faith vertue, and to vertue knowledge,</hi>
+               <note place="margin">2 <hi>Pet.</hi> i. 5, 6, 7.</note> 
+               <hi>and to knowledge temperance, and to temperance patience, and to patience godlineſs, and to godlineſs brotherly kindneſs, and to brotherly kindneſs charity, for ſo an entrance ſhall be miniſtred unto us abundantly, into the everlaſting Kingdom of our Lord and Saviour</hi> Jeſus Chriſt. Never object the greatneſs, never urge the difficulty and hardneſs of the work required
+<pb n="38" facs="tcp:32938:23" rendition="simple:additions"/> of you, but conſider, he that hath commanded you to do it, will enable you to go through with, <hi>and your labor ſhall not be in vain in the Lord.</hi> O didſt thou think of this, it would inſpire a new courage into thee, it would invigorate thy fainty reſolutions, and carry thee through the greateſt impediments and obſtacles that are in thy way; truly the reaſon why we do ſo little for God, why we are ſo careleſs and cold, and unconcerned in what we do, is becauſe our thoughts of the recompence of the reward are ſo ſeldome and ſlightly.</p>
+            <p n="2">II. The ſerious meditation of this, would ſupport and uphold us under the greateſt tryals, and afflictions that God ſhould at any time ex<g ref="char:EOLhyphen"/>erciſe us with: this made <hi>Job</hi> ſtand upright un<g ref="char:EOLhyphen"/>der that great preſſure of calamities that was laid upon him; <hi>He knew that his redeemer lived, and that he ſhould ſtand at the latter day upon the Earth:</hi>
+               <note place="margin">
+                  <hi>Job</hi> xix.</note> 
+               <hi>though</hi> ſaith he,<note place="margin">
+                  <hi>Verſ.</hi> 25.</note> 
+               <hi>after my skin worms deſtroy this body, yet in my fleſh ſhall I ſee God,</hi>
+               <note place="margin">
+                  <hi>Verſ.</hi> 26.</note> 
+               <hi>whom I ſhall ſee for my ſelf,</hi>
+               <note place="margin">
+                  <hi>Verſ.</hi> 27.</note> 
+               <hi>and mine eyes ſhall behold and not another, though my reins be conſumed within me.</hi> This upheld <hi>David, Thou wilt ſhew me the path of life: in thy preſence is fulneſs of joy,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> xvi. 11.</note> 
+               <hi>and at thy right hand there are pleaſures for evermore. I had fainted,</hi> ſaith he, <hi>unleſs I had be<g ref="char:EOLhyphen"/>lieved to have ſeen the goodneſs of the Lord in the land
+<pb n="39" facs="tcp:32938:23" rendition="simple:additions"/> of the living:</hi> that is, not only here in this life, as the moſt underſtand it, but in that other world which is truly and properly <hi>Terra viventium,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> xxvii. 13.</note> the land of the living. Whatever your troubles are this is ſufficient to comfort you under them, that there is a ſtate of happineſs to be enjoyed here<g ref="char:EOLhyphen"/>after by all ſuch who are followers of thoſe who through faith and patience have inherited the promiſe, yet a little while, and all your ſuffer<g ref="char:EOLhyphen"/>ings ſhall be at an end; for no ſooner ſhall you lay down your Earthly Tabernacle, but God ſhall receive you into his Kingdom, where there is neither ſin nor ſorrow, but perfect peace and joy; ſuch peace that paſſeth all underſtanding, ſuch joy that is unſpeakable and full of glory. <hi>Eye hath not ſeen, ear hath not heard, neither hath it entred into the heart of man to conceive the things which God hath prepared for them that love him.</hi>
+               <note place="margin">1 <hi>Cor.</hi> ii. 9.</note> Can we believe theſe things, and yet repine and mur<g ref="char:EOLhyphen"/>mur under any of the divine diſpenſations, as though God had dealt hardly with us? Oh how unreaſonable is this, ſince our afflictions are the way to glory! <hi>for through many tribulations muſt we enter into the Kingdom of Heaven:</hi>
+               <note place="margin">
+                  <hi>Acts</hi> xiv. 22.</note> ſince they fit and prepare us for our glory, and make us meet to be partakers of it;<note place="margin">2 <hi>Cor.</hi> iv. 17.</note> 
+               <hi>Let us rather rejoyce in our trials, foraſmuch as the ſufferings of this preſent time
+<pb n="40" facs="tcp:32938:24"/> are not worthy to be compared with the glory which ſhall be revealed in us; foraſmuch as they work out for us a far more exceeding and eternal weight of glory.</hi> This would be more becoming the faith of a Chriſtian, and much more conduce to the credit and reputation of that excellent Religion, that we do profeſs.</p>
+            <p n="4">IV. The ſerious meditation of this glorious change to be wrought upon our bodies, would make death much leſs dreadful, and terrible un<g ref="char:EOLhyphen"/>to us: death as it is an extinction of life, as it is a diſſolution of the frame and ſtructure of our bodies, is a frightful thing, and full of horror; nature ſtarts back and cannot endure to look at it;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſoſt. Hom. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</note> but did we ſeriouſly conſider, that when we die to this preſent life, it is that we may live a much better life; and that when God pulls down our earthly houſe, it is for the erecting a more ſtately and magnificent fabrick for us, we ſhould ſoon be ſatisfied and compoſed in our minds, and be ſo far from fearing it, that we ſhould with ſubmiſſion to the will of God deſire it: <hi>for in this</hi> ſaith the Apoſtle <hi>we groan, earneſtly deſiring to be cloathed upon with our houſe which is from Heaven, if ſo be, that being cloathed we ſhould not be found naked.</hi> 2 Cor. v. 2, 3.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:32938:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
